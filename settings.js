@@ -63,8 +63,8 @@ global.location = "Asguard" //ur location
 //bot bomdy 
 global.owner = ['918770333268']
 global.ownertag = '918770333268' //ur tag number
-global.botname = 'Koneko🍁' //ur bot name
-global.linkz = "https://youtu.be/0-3Vr3R7tZg" //your theme url which will be displayed on whatsapp
+global.botname = 'Zero-Two🍁' //ur bot name
+global.linkz = "https://youtu.be/35bCfE1ercc" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/0-3Vr3R7tZg" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
